@@ -7,10 +7,6 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author aj132
- */
 public class BankAccount {
     private String strName;
     private int id;
