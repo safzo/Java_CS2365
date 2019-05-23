@@ -1,7 +1,8 @@
+This folder consists of all the answer assignment files to the question, solved by a team of two members:
 Grant Hall and Safwan Hasan
 Coded on eclipse
-OOP_Project1 contains question 1 (Q0)
-OOP_Project1.2 contains question 2 (Q3)
+Question 1 (Q0)
+Question 2 (Q3)
 
 Final Output for question 1:
 Weight: 10.0
